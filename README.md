@@ -9,8 +9,8 @@ The purpose of the second part is the classification of emotions on the basis of
 ### Project Contents
 
 + **Datasets:**
-  * Dataset with Biomedical Signals (Used for task 3.1 and 3.3)
-  * Dataset of Images (Used for task 4.1 and 4.2)
+  * Dataset with Biomedical Signals (Used for tasks 3.1 and 3.3)
+  * Dataset of Images (Used for tasks 4.1 and 4.2)
 
 + **MLP (MultiLayer Perceptron) and RBF (Radial Basis Function) Neural Networks:**
   * Neural Networks used to estimate person's emotions (TASK 3.1).
@@ -21,10 +21,10 @@ The purpose of the second part is the classification of emotions on the basis of
   * Developed by using both Fuzzy Logic Designer and Matlab command line methods.
 
 + **CNN (Convolutional Neural Networks):**
-  * Deep Neural Networks used to classify person's facial expressions.
+  * Deep Neural Networks used to classify person's facial expressions (TASK 4.1 and 4.2).
   * 2-class (anger and happiness) and 4-class (anger,disgust, fear and happiness) classification problem solved
   * Two different CNNs used:
-    1. Built from scratch CNN
-    2. Fine-tune of a pretrained CNN (AlexNet)
+    * Built from scratch CNN
+    * Fine-tune of a pretrained CNN (AlexNet)
 
 + **Project Report**

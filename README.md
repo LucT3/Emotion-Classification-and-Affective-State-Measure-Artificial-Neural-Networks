@@ -24,5 +24,5 @@ The purpose of the second part is the classification of emotions on the basis of
   * Deep Neural Networks used to classify person's facial expressions.
   * 2-class (anger and happiness) and 4-class (anger,disgust, fear and happiness) classification problem solved
   * Two different CNNs used:
-    * 1) Built from scratch CNN
-    * 2) Fine-tune of a pretrained CNN (AlexNet)
+    + 1. Built from scratch CNN
+    + 2. Fine-tune of a pretrained CNN (AlexNet)

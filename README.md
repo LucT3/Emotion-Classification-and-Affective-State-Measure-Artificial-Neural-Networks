@@ -1,4 +1,4 @@
-# Neural-Networks-Project
+# Intelligent-Systems-Project
 
 ### Specifications
 The aim of the first part of this project is to design and develop an intelligent system that measures a person’s affective state based on various biomedical signals that are recorded by sensors.

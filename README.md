@@ -1,4 +1,4 @@
-# Intelligent-Systems-Project
+# Emotion-Classification-and-Affective-State-Artificial-Neural-Networks
 
 ### Technologies and Programming Languages
 <div align="center">

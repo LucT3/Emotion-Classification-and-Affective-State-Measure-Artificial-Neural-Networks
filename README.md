@@ -2,7 +2,7 @@
 
 ### Technologies
 <div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="MATLAB" title="MATLAB"/></code>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="MATLAB" title="MATLAB"/>
 </div>
 ### Specifications
 The aim of the first part of this project is to design and develop an intelligent system that measures a person’s affective state based on various biomedical signals that are recorded by sensors.

@@ -1,9 +1,12 @@
-# Emotion-Classification-and-Affective-State-Artificial-Neural-Networks
+# Emotion Classification and Affective State Measure Atificial Neural Networks
 
 ### Technologies and Programming Languages
 <div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="MATLAB" title="MATLAB"/>
+	<br />
+ 	<img src="https://img.shields.io/badge/Matlab-FF6F00?style=for-the-badge&logo=tensorflow=white"/>
 </div>
+	
 
 ### Project Specifications
 The aim of the first part of this project is to design and develop an intelligent system that measures a person’s affective state based on various biomedical signals (ECG, EEG, GSR) that are recorded by sensors.

@@ -3,7 +3,7 @@ Intelligent Systems course project (MSc in Computer Engineering @ Unversity of P
 </br></br>
 
 ## Table of Contents
-1. [Programming Languages and Software](#technologies-and-programming-languages)
+1. [Programming Languages and Software](#programming-languages-and-software)
 2. [Project Specifications](#project-specifications)
 3. [Project Contents](#project-contents)
 </br></br>

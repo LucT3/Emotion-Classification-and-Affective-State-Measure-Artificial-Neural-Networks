@@ -3,12 +3,12 @@ Intelligent Systems course project (MSc in Computer Engineering @ Unversity of P
 </br></br>
 
 ## Table of Contents
-1. [Technologies and Programming Languages](#technologies-and-programming-languages)
+1. [Programming Languages and Software](#technologies-and-programming-languages)
 2. [Project Specifications](#project-specifications)
 3. [Project Contents](#project-contents)
 </br></br>
 
-## Technologies and Programming Languages
+## Programming Languages and Software
 <div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="MATLAB" title="MATLAB"/>
 	<br />

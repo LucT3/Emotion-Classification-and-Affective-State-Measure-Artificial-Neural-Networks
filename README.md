@@ -1,5 +1,5 @@
 # Emotion Classification and Affective State Measure Artificial Neural Networks
-**Intelligent Systems** course project (MSc in Computer Engineering @ Unversity of Pisa). Design and development of a ***Multi Layer Perceptron (MLP)***, ***Radial Basis Function (RBF)** networks and a ***Fuzzy System*** to **estimate person's affective state**.\
+**Intelligent Systems** course project (MSc in Computer Engineering @ Unversity of Pisa). Design and development of a ***Multi Layer Perceptron (MLP)***, ***Radial Basis Function (RBF)*** networks and a ***Fuzzy System*** to **estimate person's affective state**.\
 Design and development of a ***CNN (Convolutional Neural Network)*** to **classify person's emotions**. Finally, **fine-tuning** of a ***Pretrained CNN (AlexNet)*** to perform the emotion classification task.
 </br></br>
 
